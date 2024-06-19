@@ -67,7 +67,7 @@
 </div>
 
 ###
-<table border="1" cellspasing="5" cellpadding="5" align="center">
+<table class="table-wider" border="1" cellspasing="5" cellpadding="5" align="center">
   <h1 align="center">Deskripsi Jobsheet</h1>
     <tr>
       <td align="center"><h2>Jobsheet 01</h2></td>
