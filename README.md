@@ -67,7 +67,7 @@
 </div>
 
 ###
-<table border="1" cellspasing="5" cellpadding="5" align="center">
+<table border="1" cellspasing="5" cellpadding="5" align="left">
   <h1 align="left">Deskripsi Jobsheet</h1>
     <tr>
       <td align="left" rowspan="2"><h2>Jobsheet 01</h2></td>
