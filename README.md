@@ -68,9 +68,9 @@
 
 ###
 <table border="1" cellspasing="5" cellpadding="5" align="center">
-  <h1 align="left">Deskripsi Jobsheet</h1>
+  <h1 align="center">Deskripsi Jobsheet</h1>
     <tr>
-      <th align="center" colspan="3"><h2>Jobsheet 01</h2></th>
+      <th align="center" rowspan="3"><h2>Jobsheet 01</h2></th>
       <th>:</th>
       <td>Jobsheet ini membahas mengenai struktur data dan pengenalannya. Struktur data merupakan cara menyimpan dan mengatur data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien. Jobsheet ini menjelaskan tipe data, struktur data, dan implementasinya dalam bahasa pemrograman C. Selain itu, jobsheet ini juga memberikan contoh program sederhana yang dapat membantu mahasiswa memahami konsep dasar pemrograman dengan menggunakan struktur data.</td>
     </tr>
