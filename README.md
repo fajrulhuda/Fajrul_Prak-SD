@@ -81,14 +81,49 @@
       <td>:</td>
       <td>JobSheet ini membahas tentang struktur data dalam pemrograman C, mencakup array, pointer dan struktur. Materi ini dijelaskan dengan contoh kode dan implementasinya dalam pemrograman. JobSheet ini juga            memperkenalkan penggunaan typedef dan ADT, serta memberikan latihan untuk mengimplementasikannya dalam pemrograman.</td>
     </tr>
+    <tr>
+      <td align="center"><h2>JobSheet 03</h2></td>
+      <td>:</td>
+      <td>JobSheet ini membahas tentang Single Linked List, sebuah struktur data yang terdiri dari simpul atau node yang saling berhubungan melalui pointer. Dalam job sheet ini, Anda akan mempelajari bagaimana membuat struktur data ini, alokasi memori, dan operasi dasar seperti penghapusan dan pengisian simpul. Selain itu, juga cara menampilkan data dalam linked list dan melakukan operasi tambahan seperti pengisian simpul di awal dan tengah linked list.</td>
+    </tr>
+    <tr>
+      <td align="center"><h2>JobSheet 02</h2></td>
+      <td>:</td>
+      <td>JobSheet ini membahas tentang struktur data dalam pemrograman C, mencakup array, pointer dan struktur. Materi ini dijelaskan dengan contoh kode dan implementasinya dalam pemrograman. JobSheet ini juga            memperkenalkan penggunaan typedef dan ADT, serta memberikan latihan untuk mengimplementasikannya dalam pemrograman.</td>
+    </tr>
+    <tr>
+      <td align="center"><h2>JobSheet 02</h2></td>
+      <td>:</td>
+      <td>JobSheet ini membahas tentang struktur data dalam pemrograman C, mencakup array, pointer dan struktur. Materi ini dijelaskan dengan contoh kode dan implementasinya dalam pemrograman. JobSheet ini juga            memperkenalkan penggunaan typedef dan ADT, serta memberikan latihan untuk mengimplementasikannya dalam pemrograman.</td>
+    </tr>
+    <tr>
+      <td align="center"><h2>JobSheet 02</h2></td>
+      <td>:</td>
+      <td>JobSheet ini membahas tentang struktur data dalam pemrograman C, mencakup array, pointer dan struktur. Materi ini dijelaskan dengan contoh kode dan implementasinya dalam pemrograman. JobSheet ini juga            memperkenalkan penggunaan typedef dan ADT, serta memberikan latihan untuk mengimplementasikannya dalam pemrograman.</td>
+    </tr>
+    <tr>
+      <td align="center"><h2>JobSheet 02</h2></td>
+      <td>:</td>
+      <td>JobSheet ini membahas tentang struktur data dalam pemrograman C, mencakup array, pointer dan struktur. Materi ini dijelaskan dengan contoh kode dan implementasinya dalam pemrograman. JobSheet ini juga            memperkenalkan penggunaan typedef dan ADT, serta memberikan latihan untuk mengimplementasikannya dalam pemrograman.</td>
+    </tr>
+    <tr>
+      <td align="center"><h2>JobSheet 02</h2></td>
+      <td>:</td>
+      <td>JobSheet ini membahas tentang struktur data dalam pemrograman C, mencakup array, pointer dan struktur. Materi ini dijelaskan dengan contoh kode dan implementasinya dalam pemrograman. JobSheet ini juga            memperkenalkan penggunaan typedef dan ADT, serta memberikan latihan untuk mengimplementasikannya dalam pemrograman.</td>
+    </tr>
+    <tr>
+      <td align="center"><h2>JobSheet 02</h2></td>
+      <td>:</td>
+      <td>JobSheet ini membahas tentang struktur data dalam pemrograman C, mencakup array, pointer dan struktur. Materi ini dijelaskan dengan contoh kode dan implementasinya dalam pemrograman. JobSheet ini juga            memperkenalkan penggunaan typedef dan ADT, serta memberikan latihan untuk mengimplementasikannya dalam pemrograman.</td>
+    </tr>
 </table>
 
 
 
 
 
-<h2>JobSheet 03</h2>
-JobSheet ini membahas tentang Single Linked List, sebuah struktur data yang terdiri dari simpul atau node yang saling berhubungan melalui pointer. Dalam job sheet ini, Anda akan mempelajari bagaimana membuat struktur data ini, alokasi memori, dan operasi dasar seperti penghapusan dan pengisian simpul. Selain itu, juga cara menampilkan data dalam linked list dan melakukan operasi tambahan seperti pengisian simpul di awal dan tengah linked list.
+
+
 
 <h2>JobSheet 04</h2>
 JobSheet ini membahas tentang Doubly Linked List (DLL), sebuah struktur data yang terdiri dari simpul yang saling berhubungan melalui dua pointer, yaitu pointer next dan prev. Dalam job sheet ini juga mempelajari bagaimana membuat struktur data ini, alokasi memori, dan operasi dasar seperti penghapusan dan pengisian simpul. 
