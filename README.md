@@ -20,19 +20,19 @@
 
 ###
 
-<h1 align="center">HELLO WELCOME TO MY GITHUB👻</h1>
+<h1 align="left">HELLO WELCOME TO MY GITHUB👻</h1>
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="center">I'm Fajrul Huda Ash Shiddiq from Padang, West Sumatera<br><br>- 🔭 I am studying at Padang State University<br>- 📚 I'm currently learning C Language<br>- ⚡ In my free time I playing game</p>
+<p align="left">I'm Fajrul Huda Ash Shiddiq from Padang, West Sumatera<br><br>- 🔭 I am studying at Padang State University<br>- 📚 I'm currently learning C Language<br>- ⚡ In my free time I playing game</p>
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
