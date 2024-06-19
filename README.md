@@ -81,7 +81,7 @@
       <td>:</td>
       <td>JobSheet ini membahas tentang struktur data dalam pemrograman C, mencakup array, pointer dan struktur. Materi ini dijelaskan dengan contoh kode dan implementasinya dalam pemrograman. JobSheet ini juga            memperkenalkan penggunaan typedef dan ADT, serta memberikan latihan untuk mengimplementasikannya dalam pemrograman.</td>
     </tr>
-  
+</table>
 
 
 
@@ -121,4 +121,4 @@ Jobsheet ini berfokus pada Tree Traversal dalam pemrograman C, khususnya membaha
 Jobsheet ini membahas tentang penerapan algoritma Depth First Search (DFS) dan Breadth First Search (BFS) pada struktur data graph. Pertama, jobsheet ini menjelaskan konsep dasar dari kedua algoritma tersebut dan memberikan ilustrasi bagaimana penerapan DFS dengan diagram. Selanjutnya, terdapat beberapa contoh program C yang mengimplementasikan algoritma DFS, mulai dari program yang sederhana hingga yang lebih kompleks.
 
 
-</table>
+
