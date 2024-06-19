@@ -67,16 +67,15 @@
 </div>
 
 ###
-<h1 align="left"> 😎 Deskripsi Jobsheet</h1>
 <table border="1" cellspasing="5" cellpadding="5" align="center">
-  <h2 align="center">Biodata Pribadi</h2>
+  <h1 align="left">Deskripsi Jobsheet</h1>
     <tr>
-      <th align="left"><h2>Jobsheet 01</h2></th>
+      <th align="center" colspan="3"><h2>Jobsheet 01</h2></th>
       <th>:</th>
       <td>Jobsheet ini membahas mengenai struktur data dan pengenalannya. Struktur data merupakan cara menyimpan dan mengatur data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien. Jobsheet ini menjelaskan tipe data, struktur data, dan implementasinya dalam bahasa pemrograman C. Selain itu, jobsheet ini juga memberikan contoh program sederhana yang dapat membantu mahasiswa memahami konsep dasar pemrograman dengan menggunakan struktur data.</td>
     </tr>
     <tr>
-      <th align="left"><h2>JobSheet 02</h2></th>
+      <th align="center" colspan="3"><h2>JobSheet 02</h2></th>
       <th>:</th>
       <td align="left">JobSheet ini membahas tentang struktur data dalam pemrograman C, mencakup array, pointer dan struktur. Materi ini dijelaskan dengan contoh kode dan implementasinya dalam pemrograman. JobSheet ini juga memperkenalkan penggunaan typedef dan ADT, serta memberikan latihan untuk mengimplementasikannya dalam pemrograman.</td>
     </tr>
