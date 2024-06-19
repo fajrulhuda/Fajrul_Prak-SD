@@ -1,11 +1,11 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11822285&assignment_repo_type=AssignmentRepo)
-<div align="left">
+<div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <a href="https://wa.me/082381529578" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
@@ -14,29 +14,29 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=fajrulhuda.fajrulhuda&"  />
 </div>
 
 ###
 
-<h1 align="left">HELLO WELCOME TO MY GITHUB👻</h1>
+<h1 align="center">HELLO WELCOME TO MY GITHUB👻</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Fajrul Huda Ash Shiddiq from Padang, West Sumatera<br><br>- 🔭 I am studying at Padang State University<br>- 📚 I'm currently learning C Language<br>- ⚡ In my free time I playing game</p>
+<p align="center">I'm Fajrul Huda Ash Shiddiq from Padang, West Sumatera<br><br>- 🔭 I am studying at Padang State University<br>- 📚 I'm currently learning C Language<br>- ⚡ In my free time I playing game</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -58,24 +58,24 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=fajrulhuda&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
-<table border="1" cellspasing="5" cellpadding="5" align="left">
-  <h1 align="left">Deskripsi Jobsheet</h1>
+<table border="1" cellspasing="5" cellpadding="5" align="center">
+  <h1 align="center">Deskripsi Jobsheet</h1>
     <tr>
-      <td align="left" rowspan="2"><h2>Jobsheet 01</h2></td>
+      <td align="center" rowspan="2"><h2>Jobsheet 01</h2></td>
       <td>:</td>
       <td>Jobsheet ini membahas mengenai struktur data dan pengenalannya. Struktur data merupakan cara menyimpan dan mengatur data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien. Jobsheet ini menjelaskan tipe data, struktur data, dan implementasinya dalam bahasa pemrograman C. Selain itu, jobsheet ini juga memberikan contoh program sederhana yang dapat membantu mahasiswa memahami konsep dasar pemrograman dengan menggunakan struktur data.</td>
     </tr>
     <tr>
-      <td align="left" rowspan="2"><h2>JobSheet 02</h2></td>
+      <td align="center" rowspan="2"><h2>JobSheet 02</h2></td>
       <td>:</td>
       <td>JobSheet ini membahas tentang struktur data dalam pemrograman C, mencakup array, pointer dan struktur. Materi ini dijelaskan dengan contoh kode dan implementasinya dalam pemrograman. JobSheet ini juga memperkenalkan penggunaan typedef dan ADT, serta memberikan latihan untuk mengimplementasikannya dalam pemrograman.</td>
     </tr>
