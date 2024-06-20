@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="left">HELLO WELCOME TO MY GITHUB👻</h1>
+<h1 align="center">HELLO WELCOME TO MY GITHUB👻</h1>
 
 ###
 
