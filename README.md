@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Fajrul Huda Ash Shiddiq from Padang, West Sumatera<br><br>- 🔭 I am studying at Padang State University<br>- 📚 I'm currently learning C Language<br>- ⚡ In my free time I playing game</p>
+<p align="left">I'm Fajrul Huda Ash Shiddiq from Padang, West Sumatera<br><br>- 🔭 I am studying at Universitas Negeri Padang<br>- 📚 I'm currently learning C Language<br>- ⚡ In my free time I playing game</p>
 
 ###
 
