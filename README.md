@@ -81,7 +81,7 @@
     </tr>
     <tr>
       <td align="center"><h2>JobSheet 03: Single Linked List</h2></td>
-      <td>JobSheet ini membahas tentang Single Linked List, sebuah struktur data yang terdiri dari simpul atau node yang saling berhubungan melalui pointer. Dalam job sheet ini, Anda akan mempelajari bagaimana membuat struktur data ini, alokasi memori, dan operasi dasar seperti penghapusan dan pengisian simpul. Selain itu, juga cara menampilkan data dalam linked list dan melakukan operasi tambahan seperti pengisian simpul di awal dan tengah linked list.</td>
+      <td>JobSheet ini membahas tentang Single Linked List, sebuah struktur data yang terdiri dari simpul atau node yang saling berhubungan melalui pointer. Dalam job sheet ini mempelajari bagaimana membuat struktur data ini, alokasi memori, dan operasi dasar seperti penghapusan dan pengisian simpul. Selain itu, juga cara menampilkan data dalam linked list dan melakukan operasi tambahan seperti pengisian simpul di awal dan tengah linked list.</td>
     </tr>
     <tr>
       <td align="center"><h2>JobSheet 04: Doubly Linked List</h2></td>
