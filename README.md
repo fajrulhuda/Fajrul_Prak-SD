@@ -93,7 +93,7 @@
     </tr>
     <tr>
       <td align="center"><h2>JobSheet 06: Stack</h2></td>
-      <td>Jobsheet ini membahas tentang struktur data stack dalam pemrograman C. Tujuannya adalah untuk mengenalkan konsep stack, operasi yang ada di dalamnya, dan cara mengimplementasikannya dalam bahasa C. Materi meliputi penjelasan konsep stack, cara menyimpan dan mengambil data dari stack (push dan pop), serta contoh penerapannya dalam program.</td>
+      <td>Jobsheet ini membahas tentang struktur data stack dalam pemrograman C. Tujuannya adalah untuk mengenalkan konsep stack, operasi yang ada di dalamnya, dan cara mengimplementasikannya dalam bahasa C. Materi meliputi penjelasan konsep stack, cara menyimpan dan mengambil data dari stack (push dan pop), serta contoh penerapannya dalam program. Stack adalah struktur data yang mengikuti prinsip Last In, First Out (LIFO). Ini berarti bahwa elemen terakhir yang dimasukkan ke dalam stack adalah elemen pertama yang akan dikeluarkan.</td>
     </tr>
     <tr>
       <td align="center"><h2>JobSheet 07: Queue</h2></td>
