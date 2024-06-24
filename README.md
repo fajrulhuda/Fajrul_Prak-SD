@@ -101,7 +101,7 @@
     </tr>
     <tr>
       <td align="center"><h2>JobSheet 08: Bubble and Insertion Sort</h2></td>
-      <td>Jobsheet ini membahas algoritma pengurutan data, khususnya Bubble Sort dan Insertion Sort. Di sini dijelaskan pengertian pengurutan data, konsep antrian (queue) dan pencarian linear/biner. Materi mencakup penjelasan tentang cara kerja kedua algoritma dan contoh program untuk mengimplementasikannya.</td>
+      <td>Jobsheet ini membahas algoritma pengurutan data, khususnya Bubble Sort dan Insertion Sort. Di sini dijelaskan pengertian pengurutan data, konsep antrian (queue) dan pencarian linear/biner. Bubble Sort adalah algoritma pengurutan yang paling sederhana. Algoritma ini bekerja dengan membandingkan dua elemen yang berdekatan dan menukarnya jika mereka berada dalam urutan yang salah. Proses ini diulangi sampai tidak ada lagi elemen yang perlu ditukar, yang berarti array telah diurutkan. Insertion Sort adalah algoritma pengurutan yang bekerja dengan membagi array menjadi dua bagian: bagian yang diurutkan dan bagian yang belum diurutkan. Elemen dari bagian yang belum diurutkan dipindahkan satu per satu ke posisi yang benar dalam bagian yang diurutkan.</td>
     </tr>
     <tr>
       <td align="center"><h2>JobSheet 09: Selection and Merge Sort</h2></td>
