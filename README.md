@@ -97,7 +97,7 @@
     </tr>
     <tr>
       <td align="center"><h2>JobSheet 07: Queue</h2></td>
-      <td>Jobsheet ini membahas konsep dasar dan implementasi antrian (Queue) dalam pemrograman. Terdapat dua pendekatan, yaitu menggunakan array dan linked list. Materi ini juga membahas penggunaan deque, yang merupakan antrian double ended dimana elemen dapat dihapus atau dimasukkan baik dari depan maupun belakang. Selain itu, jobshet ini juga memperkenalkan konsep priority queue, yang merupakan antrian yang memprioritaskan elemen dengan nilai terbesar.</td>
+      <td>Jobsheet ini membahas konsep dasar dan implementasi antrian (Queue) dalam pemrograman. Antrian adalah struktur data linear yang mengikuti prinsip First In, First Out (FIFO), dimana elemen yang pertama dimasukkan akan menjadi elemen pertama yang dikeluarkan. Terdapat dua pendekatan, yaitu menggunakan array dan linked list. Materi ini juga membahas penggunaan deque, yang merupakan antrian double ended dimana elemen dapat dihapus atau dimasukkan baik dari depan maupun belakang. Selain itu, jobshet ini juga memperkenalkan konsep priority queue, yang merupakan antrian yang memprioritaskan elemen dengan nilai terbesar.</td>
     </tr>
     <tr>
       <td align="center"><h2>JobSheet 08: Bubble and Insertion Sort</h2></td>
