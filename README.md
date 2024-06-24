@@ -74,10 +74,10 @@
     </tr>
     <tr>
       <td align="center"><h2>JobSheet 02: Array, Pointer, dan Structure</h2></td>
-      <td>JobSheet ini membahas tentang struktur data dalam pemrograman C, mencakup array, pointer dan struktur. Materi ini dijelaskan dengan contoh kode dan implementasinya dalam pemrograman. JobSheet ini juga            memperkenalkan penggunaan typedef dan ADT, serta memberikan latihan untuk mengimplementasikannya dalam pemrograman.<br><p>Array: Kumpulan data terstruktur, bagaikan orkestra yang harmonis.</p><br>
-<p>Pointer: Mengakses data secara langsung, bagaikan konduktor yang memimpin orkestra.</p><br>
-<p>Struktur: Menggabungkan data beragam, bagaikan band dengan instrumen unik.</p><br>
-<p>Typedef & ADT: Meningkatkan pemahaman dan portabilitas kode.</p></td>
+      <td>JobSheet ini membahas tentang struktur data dalam pemrograman C, mencakup array, pointer dan struktur. Materi ini dijelaskan dengan contoh kode dan implementasinya dalam pemrograman. JobSheet ini juga            memperkenalkan penggunaan typedef dan ADT, serta memberikan latihan untuk mengimplementasikannya dalam pemrograman.<p>-Array: Kumpulan data terstruktur, bagaikan orkestra yang harmonis.</p>
+<p>-Pointer: Mengakses data secara langsung, bagaikan konduktor yang memimpin orkestra.</p>
+<p>-Struktur: Menggabungkan data beragam, bagaikan band dengan instrumen unik.</p>
+<p>-Typedef & ADT: Meningkatkan pemahaman dan portabilitas kode.</p></td>
     </tr>
     <tr>
       <td align="center"><h2>JobSheet 03: Single Linked List</h2></td>
