@@ -70,7 +70,10 @@
       <td align="center"><h2>Jobsheet 01: Pengenalan Struktur Data</h2></td>
       <td>Jobsheet ini membahas mengenai struktur data dan pengenalannya. Struktur data merupakan cara menyimpan dan mengatur data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan       
           secara efisien. Jobsheet ini menjelaskan tipe data, struktur data, dan implementasinya dalam bahasa pemrograman C. Selain itu, jobsheet ini juga memberikan contoh program sederhana yang dapat membantu 
-          mahasiswa memahami konsep dasar pemrograman dengan menggunakan struktur data.</td>
+          mahasiswa memahami konsep dasar pemrograman dengan menggunakan struktur data.<br>Array: Kumpulan data terstruktur, bagaikan orkestra yang harmonis.
+Pointer: Mengakses data secara langsung, bagaikan konduktor yang memimpin orkestra.
+Struktur: Menggabungkan data beragam, bagaikan band dengan instrumen unik.
+Typedef & ADT: Meningkatkan pemahaman dan portabilitas kode.</td>
     </tr>
     <tr>
       <td align="center"><h2>JobSheet 02: Array, Pointer, dan Structure</h2></td>
